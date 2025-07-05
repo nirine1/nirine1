@@ -76,9 +76,7 @@ A comprehensive SaaS booking platform similar to Booking.com/Airbnb, built with 
 
 ## 📫 Let's Connect!
 - 📧 Email: ilainiriko.tambaza@gmail.com
-- 🐦 Twitter: [@nirine1](https://twitter.com/nirine1)
-- 💼 LinkedIn: [@niriko01](https://linkedin.com/in/niriko01)
-- 📘 Facebook: [@nirine01](https://facebook.com/nirine01)
+- 💼 LinkedIn: [Ilainiriko Tambaza]([https://linkedin.com/in/niriko01](https://www.linkedin.com/in/ilainiriko-tambaza-b25934236/))
 
 ## 🎯 Current Focus
 I'm currently focused on expanding my expertise in modern web technologies and contributing to open source projects to continuously improve my skills and give back to the developer community!
