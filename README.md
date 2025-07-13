@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Ilainiriko, aka Nirine
 
+![Banner](/assets/images/banner.jpg)
+
 ## 🚀 About Me
 I'm a passionate **Web Developer** based in **France** 🇫🇷, with over a year of professional experience building modern web applications and SaaS solutions. I love creating efficient, scalable applications and am always eager to learn new technologies.
 
