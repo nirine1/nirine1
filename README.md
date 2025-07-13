@@ -37,12 +37,8 @@ I'm a passionate **Web Developer** based in **France** 🇫🇷, with over a yea
 - Developing an API Manager for a SaaS application
 - Configuring virtual machines for testing environments
 - Working with modern web technologies in an agile environment
-
-### 🏨 PHP/SQL Developer | AW Services France
-**April 2024 - June 2024**
-- Built a comprehensive booking platform (Booking.com/Airbnb style) using Laravel
 - Designed and implemented SQL database architecture
-- Delivered a full-featured SaaS solution
+- Built a full-featured SaaS solution
 
 ## 🎓 Education
 **Bachelor's in Computer Science** - Object-Oriented & Web Development  
@@ -53,26 +49,15 @@ I'm a passionate **Web Developer** based in **France** 🇫🇷, with over a yea
 ### 🍳 Filament Revive (unpublished)
 A plugin for [FilamentPHP](https://filamentphp.com/) that brings a central Recycle Bin to your application. It lets you restore or permanently delete soft-deleted Eloquent models in just a few clicks.
 
-### 🌐 Personal Website
-Development and management of my personal portfolio website using HTML, CSS, JavaScript, and PHP.
-
-### 🏨 Booking Platform
-A comprehensive SaaS booking platform similar to Booking.com/Airbnb, built with Laravel and MySQL.
-
-## 🌍 Languages
-- 🇲🇬 **Malagasy** - Native
-- 🇫🇷 **French** - B2 Level
-- 🇬🇧 **English** - B1 Level
-
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nirine1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirine1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirine1&layout=compact&theme=radical) 
 
 ## 🏆 Key Strengths
 - 🎯 **Organization & Time Management** - Efficient project planning and execution
 - 🤝 **Team Collaboration** - Strong teamwork and communication skills
 - 🔍 **Analytical Thinking** - Excellent problem-solving and attention to detail
-- 🚀 **Autonomy** - Self-motivated and independent learner
+- 🚀 **Autonomy** - Self-motivated and independent learner -->
 
 ## 📫 Let's Connect!
 - 📧 Email: ilainiriko.tambaza@gmail.com
