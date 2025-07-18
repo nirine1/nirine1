@@ -23,7 +23,7 @@ I'm a passionate **Web Developer** based in **France** 🇫🇷, with over a yea
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat&logo=filament&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-3-fb70a9?style=for-the-badge&logo=filament&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
