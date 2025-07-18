@@ -15,6 +15,7 @@ I'm a passionate **Web Developer** based in **France** 🇫🇷, with over a yea
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
@@ -22,7 +23,7 @@ I'm a passionate **Web Developer** based in **France** 🇫🇷, with over a yea
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat&logo=filament&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -32,7 +33,7 @@ I'm a passionate **Web Developer** based in **France** 🇫🇷, with over a yea
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-## 💼 Professional Experience
+<!-- ## 💼 Professional Experience
 
 ### 🔧 Web Developer | InnovQube France
 **June 2024 - Present**
@@ -44,7 +45,7 @@ I'm a passionate **Web Developer** based in **France** 🇫🇷, with over a yea
 
 ## 🎓 Education
 **Bachelor's in Computer Science** - Object-Oriented & Web Development  
-*CNAM France* | September 2020 - June 2024
+*CNAM France* | September 2020 - June 2024 -->
 
 ## 🌟 Featured Projects
 
