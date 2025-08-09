@@ -49,7 +49,7 @@ I'm a passionate **Web Developer** based in **France** 🇫🇷, with over a yea
 
 ## 🌟 Featured Projects
 
-### 🍳 Filament Revive (unpublished)
+### 🍳 Filament Revive
 A plugin for [FilamentPHP](https://filamentphp.com/) that brings a central Recycle Bin to your application. It lets you restore or permanently delete soft-deleted Eloquent models in just a few clicks.
 
 <!-- ## 📊 GitHub Stats
