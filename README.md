@@ -54,7 +54,7 @@ A plugin for [FilamentPHP](https://filamentphp.com/) that brings a central Recyc
 
 ## 📫 Let's Connect!
 - 📧 Email: ilainiriko.tambaza@gmail.com
-- 💼 LinkedIn: [Ilainiriko Tambaza]([https://linkedin.com/in/niriko01](https://www.linkedin.com/in/ilainiriko-tambaza-b25934236/))
+- 💼 LinkedIn: [Ilainiriko Tambaza](https://www.linkedin.com/in/ilainiriko-tambaza-b25934236/)
 
 ## 🎯 Current Focus
 I'm currently focused on expanding my expertise in modern web technologies and contributing to open source projects to continuously improve my skills and give back to the developer community!
