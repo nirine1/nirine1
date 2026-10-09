@@ -6,7 +6,7 @@
 
 I'm a **Web Developer** based in **France**, with two years of professional experience building modern web applications and SaaS solutions. I care about what happens after the code is written: tests, static analysis, CI, and documentation.
 
-- Building **[Ignite](https://github.com/Promethys/ignite)**, a source-available goal tracking app with an MCP server and an AI assistant
+- Building **[Ignite](https://github.com/Promethys/ignite)**, a source-available goal tracking app with an MCP server and a built-in AI assistant
 - Maintaining open source packages for the **Laravel** and **Filament** ecosystems
 - Open to full-stack and backend roles, remote-friendly
 
@@ -58,7 +58,7 @@ I'm a **Web Developer** based in **France**, with two years of professional expe
 
 ### Ignite
 
-A source-available goal tracking application, designed, built, tested, documented and deployed on my own. Laravel 12 and Vue 3 with Inertia in strict TypeScript, running on **FrankenPHP** behind a custom Caddyfile, deployed to Railway through a multi-stage Docker build. Ships with an **MCP server** and an AI assistant in progress.
+A source-available goal tracking application, designed, built, tested, documented and deployed on my own. Laravel 12 and Vue 3 with Inertia in strict TypeScript, running on **FrankenPHP** behind a custom Caddyfile, deployed to Railway through a multi-stage Docker build. Ships with an **MCP server** and a built-in **AI assistant** (Laravel AI SDK) that shares the server's tools and asks for approval before deleting anything. The user's sensitive data is **encrypted at rest** with a key of their own, wrapped by a master key.
 
 [Documentation](https://ignite-docs.promethys.dev) · [Source](https://github.com/Promethys/ignite)
 
@@ -91,7 +91,7 @@ A Filament form component providing hierarchical checkbox selection with parent-
 
 ## Current Focus
 
-Building an AI assistant on top of the **Model Context Protocol**, and improving the engineering practices around it: static analysis, automated testing, secret scanning and reproducible Docker builds. I also maintain open source packages for the Laravel and Filament ecosystems.
+Running Ignite's AI assistant in production on top of the **Model Context Protocol**, and improving the engineering practices around it: static analysis, automated testing, secret scanning and reproducible Docker builds. I also maintain open source packages for the Laravel and Filament ecosystems.
 
 ---
 
